@@ -267,13 +267,13 @@
     align-items: center;
 }
 
-.home-section .home-content .bx-menu,
+.home-section .home-content .ti-menu,
 .home-section .home-content .text {
     color: #11101d;
     font-size: 35px;
 }
 
-.home-section .home-content .bx-menu {
+.home-section .home-content .ti-menu {
     margin: 0 15px;
     cursor: pointer;
 }
