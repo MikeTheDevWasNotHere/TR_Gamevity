@@ -12,7 +12,7 @@ let jsonData = `[
     {
         "Name": "Tower Blocks",
 		"Type": "Strategy",
-		"Preview": "https://www.plonga.com/storage/games/gFSOfLN29nm8u1guMHF8Hi3jIhBuXoO2woxvSoCU.jpg",
+		"Preview": "https://androidcommunity.com/wp-content/uploads/2016/02/featured-stack.jpg",
 		"Open": "NA",
         "Date": "2/17/23",
         "Time": "11:54 AM",
@@ -53,7 +53,7 @@ function search_jsonData() {
                         <button class='py-1 text-sm px-6 bg-green-500 text-white rounded'>Play</button>
                     </div>
 
-                        <img class='w-1/2 h-auto rounded' src='${obj.Preview}' alt=''>
+                        <img class='w-auto h-auto rounded' src='${obj.Preview}' alt=''> <!-- w-1/2 -->
                     </div>
 		    
 		    <br>
