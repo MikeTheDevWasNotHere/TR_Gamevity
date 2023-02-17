@@ -2,7 +2,7 @@ let jsonData = `[
     {
         "Name": "Crossy Road",
 		"Type": "Arcade",
-		"Preview": "https://static.wikia.nocookie.net/crossyroad/images/8/8e/Crossy-road-header.png/revision/latest?cb=20150405070413",
+		"Preview": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/1a/72/c31a72d2-7bf0-c26a-7830-b20ab4a6ee7f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
 		"Open": "NA",
         "Date": "2/17/23",
         "Time": "11:53 AM",
