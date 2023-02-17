@@ -12,7 +12,7 @@ let jsonData = `[
     {
         "Name": "Tower Blocks",
 		"Type": "Strategy",
-		"Preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVhHWoN62PrqtLPxAiKD4YKkF3wo9gvwLYQ&usqp=CAU",
+		"Preview": "https://coolmomtech.com/wp-content/uploads/sites/2/2017/05/stack-app-game-featured.jpg",
 		"Open": "NA",
         "Date": "2/17/23",
         "Time": "11:54 AM",
