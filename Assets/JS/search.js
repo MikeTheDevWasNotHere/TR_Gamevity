@@ -50,8 +50,7 @@ function search_jsonData() {
                         <p class='text-gray-600 text-center'>${obj.Status} <span class='text-gray-400 block text-xs'>Status</span></p>
                     </div>
 
-                        <!--<button class='py-1 text-sm px-6 bg-green-500 text-white rounded'>Play</button>-->
-			<button class='py-1 text-sm px-6 text-gray-100 rounded bg-gradient-to-r from-gray-600 to-gray-400'>Play</button>
+                        <button class='py-1 text-sm px-6 bg-green-500 text-white rounded'>Play</button>
                     </div>
 
                         <img class='w-1/2 h-auto' src='${obj.Preview}' alt=''>
