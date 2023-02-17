@@ -55,6 +55,8 @@ function search_jsonData() {
 
                         <img class='w-1/2 h-auto' src='${obj.Preview}' alt=''>
                     </div>
+		    
+		    <br>
                 `
             x.appendChild(elem)
         }
