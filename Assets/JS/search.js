@@ -53,7 +53,7 @@ function search_jsonData() {
                         <button class='py-1 text-sm px-6 bg-green-500 text-white rounded'>Play</button>
                     </div>
 
-                        <img class='w-auto h-auto rounded' src='${obj.Preview}' alt=''> <!-- w-1/2 -->
+                        <img class='w-1/2 h-auto rounded' src='${obj.Preview}' alt=''>
                     </div>
 		    
 		    <br>
