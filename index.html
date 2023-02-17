@@ -5,12 +5,11 @@
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
 
     <link rel="stylesheet" href="../TR_Gamevity/Assets/CSS/sidebar.css">
-    <link rel="stylesheet" href="../TR_Gamevity/Assets/CSS/darkmode.css">
 
     <title>Gamevity - Home</title>
 </head>
 
-<body>
+<body onload="search_jsonData()">
     <div class="sidebar close">
         <div class="logo-details">
             <i class='bx bxl-c-plus-plus'></i>
@@ -58,14 +57,18 @@
     <section class="home-section">
         <div class="home-content">
             <i class='bx bx-menu'></i>
-            <span class="text">Gamevity - Home</span>
+            <span class="text">Gamevity - Home</span> <input id="searchbar" onkeyup="search_jsonData()" type="text" name="search">
 
-            <button id="theme-toggle">Toggle theme</button>
+            <br>
+
+            <ul id="list-holder">
+
+            </ul>
         </div>
     </section>
 
     <script src="../TR_Gamevity/Assets/JS/sidebar.js"></script>
-    <script src="../TR_Gamevity/Assets/JS/darkmode.js"></script>
+    <script src="../TR_Gamevity/Assets/JS/search.js"></script>
 </body>
 
 </html>
