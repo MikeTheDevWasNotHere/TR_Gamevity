@@ -2,7 +2,7 @@ let jsonData = `[
     {
         "Name": "Crossy Road",
 		"Type": "Arcade",
-		"Preview": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/1a/72/c31a72d2-7bf0-c26a-7830-b20ab4a6ee7f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+		"Preview": "https://store-images.s-microsoft.com/image/apps.10897.13510798883898003.c2c8bc14-3a39-4806-b549-e42939afea6a.53beb45d-d382-43db-962f-19ccb4b868c2?mode=scale&q=90&h=400&w=800&background=%230078D7",
 		"Open": "NA",
         "Date": "2/17/23",
         "Time": "11:53 AM",
@@ -12,7 +12,7 @@ let jsonData = `[
     {
         "Name": "Tower Blocks",
 		"Type": "Strategy",
-		"Preview": "https://coolmomtech.com/wp-content/uploads/sites/2/2017/05/stack-app-game-featured.jpg",
+		"Preview": "https://www.plonga.com/storage/games/gFSOfLN29nm8u1guMHF8Hi3jIhBuXoO2woxvSoCU.jpg",
 		"Open": "NA",
         "Date": "2/17/23",
         "Time": "11:54 AM",
