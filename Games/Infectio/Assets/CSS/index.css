@@ -63,6 +63,7 @@ board {
     height: 65vmin;
     width: 65vmin;
     border: 1ch solid;
+    border-radius: 2px;
 }
 
 tile {
