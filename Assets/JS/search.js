@@ -8,7 +8,7 @@ let jsonData = `[
         "Date": "2/17/23",
         "Time": "11:53 AM",
         "Status": "C0",
-		"ID": "NA"
+	"ID": "NA"
     },
     {
         "Name": "Tower Blocks",
@@ -19,7 +19,18 @@ let jsonData = `[
         "Date": "2/17/23",
         "Time": "11:54 AM",
         "Status": "C0",
-		"ID": "NA"
+	"ID": "NA"
+    },
+    {
+        "Name": "Infectio",
+        "Type": "Puzzle",
+        "Preview": "https://ibb.co/4SS70Xh",
+        "Play": "index.html",
+        "Open": "index.html",
+        "Date": "2/18/23",
+        "Time": "02:25 PM",
+        "Status": "C0",
+	"ID": "NA"
     }
 ]`
 
