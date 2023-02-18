@@ -1,4 +1,6 @@
-input {
-    border-radius: 4px;
-    width: 100%;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
+
+input[type='text'] {
+    font-family: 'Poppins', sans-serif;
+    font-size: 6px;
 }
