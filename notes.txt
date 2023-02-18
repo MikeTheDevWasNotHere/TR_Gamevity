@@ -4,3 +4,21 @@ Game Status Key
     C0 = Coming Soon     [ Being Made / Prepared   ]
     R0 = Retiring Soon   [ Retiring From The List  ]
     R1 = Retired         [ Can't Be Played Anymore ]
+
+Game Defualts
+    index.html
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="../Crossy_Road/Assets/CSS/">
+
+        <title>Gamevity - Crossy Road</title>
+    </head>
+
+    <body>
+
+
+        <script src="../Crossy_Road/Assets/JS/"></script>
+    </body>
+</html>

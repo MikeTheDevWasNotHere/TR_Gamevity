@@ -3,7 +3,7 @@ let jsonData = `[
         "Name": "Crossy Road",
         "Type": "Arcade",
         "Preview": "https://play-lh.googleusercontent.com/V31nfvzNcu_47lr8y2L7m3uw9azrpGyox88gpzhQxwfZSXliFJmIRVSlYJL1eOo_X2U",
-        "Play": "index.html",
+        "Play": "../TR_Gamevity/Games/Crossy_Road/index.html",
         "Open": "index.html",
         "Date": "2/17/23",
         "Time": "11:53 AM",
