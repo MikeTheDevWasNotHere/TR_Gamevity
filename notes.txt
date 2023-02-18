@@ -4,6 +4,7 @@ Game Status Key
     C0 = Coming Soon     [ Being Made / Prepared   ]
     R0 = Retiring Soon   [ Retiring From The List  ]
     R1 = Retired         [ Can't Be Played Anymore ]
+    I0 = Issues          [ You May Encounter Bugs  ]
 
 Game Defualts
     index.html
