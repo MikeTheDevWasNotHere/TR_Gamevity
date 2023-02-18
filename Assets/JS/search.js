@@ -24,7 +24,7 @@ let jsonData = `[
     {
         "Name": "Infectio",
         "Type": "Puzzle",
-        "Preview": "https://ibb.co/4SS70Xh",
+        "Preview": "https://i.ibb.co/c881sZ4/w.png",
         "Play": "index.html",
         "Open": "index.html",
         "Date": "2/18/23",
