@@ -14,7 +14,7 @@ let jsonData = `[
         "Name": "Tower Blocks",
         "Type": "Strategy",
         "Preview": "https://androidcommunity.com/wp-content/uploads/2016/02/featured-stack.jpg",
-        "Play": "index.html",
+        "Play": "../TR_Gamevity/Games/Tower_Blocks/index.html",
         "Open": "index.html",
         "Date": "2/17/23",
         "Time": "11:54 AM",
