@@ -41,7 +41,7 @@ var Stage = /** @class */ (function () {
         this.onResize();
     }
     Stage.prototype.setCamera = function (y, speed) {
-        if (speed === void 0) { speed = 0.2; } //0.3
+        if (speed === void 0) { speed = 0.3; }
         TweenLite.to(this.camera.position, speed, { y: y + 4, ease: Power1.easeInOut });
         TweenLite.to(this.camera.lookAt, speed, { y: y, ease: Power1.easeInOut });
     };
