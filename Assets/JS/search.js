@@ -66,7 +66,7 @@ function search_jsonData() {
                     </div>
 
                     <a href="${obj.Play}"><button class='py-1 text-sm px-6 bg-green-500 text-white rounded'>Play</button></a>
-                    <a href="${obj.Open}"><button class='py-1 text-sm px-6 bg-blue-500 text-white rounded'>Open</button></a>
+                    <a href="${obj.Open}"><button class='py-1 text-sm px-6 bg-sky-500 text-white rounded'>Open</button></a>
                     </div>
 
                         <img class='w-1/2 h-auto rounded' src='${obj.Preview}' alt='Game Preview Unavailable'>
