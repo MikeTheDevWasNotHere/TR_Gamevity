@@ -3,4 +3,5 @@
 input[type='text'] {
     font-family: 'Poppins', sans-serif;
     font-size: 6px;
+    width: 25%;
 }
