@@ -2,13 +2,13 @@ let jsonData = `[
     {
         "Name": "Crossy Road",
         "Type": "Arcade",
-        "Preview": "https://store-images.s-microsoft.com/image/apps.10897.13510798883898003.c2c8bc14-3a39-4806-b549-e42939afea6a.53beb45d-d382-43db-962f-19ccb4b868c2?mode=scale&q=90&h=400&w=800&background=%230078D7",
+        "Preview": "https://play-lh.googleusercontent.com/V31nfvzNcu_47lr8y2L7m3uw9azrpGyox88gpzhQxwfZSXliFJmIRVSlYJL1eOo_X2U",
         "Play": "index.html",
         "Open": "index.html",
         "Date": "2/17/23",
         "Time": "11:53 AM",
         "Status": "C0",
-	"ID": "NA"
+	    "ID": "NA"
     },
     {
         "Name": "Tower Blocks",
@@ -19,7 +19,7 @@ let jsonData = `[
         "Date": "2/17/23",
         "Time": "11:54 AM",
         "Status": "C0",
-	"ID": "NA"
+	    "ID": "NA"
     },
     {
         "Name": "Infectio",
@@ -30,7 +30,7 @@ let jsonData = `[
         "Date": "2/18/23",
         "Time": "02:25 PM",
         "Status": "C0",
-	"ID": "NA"
+	    "ID": "NA"
     }
 ]`
 
