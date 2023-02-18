@@ -44,6 +44,7 @@ function search_jsonData() {
             const elem = document.createElement("p")
 
             elem.innerHTML = `
+	    <br>
                 <div class='bg-white p-8 rounded-lg shadow-md flex max-w-lg'>
                     <div class='w-1/2'>
                         <h1 class='text-gray-900 text-xl font-black '>${obj.Name}</h1>
@@ -59,7 +60,6 @@ function search_jsonData() {
 
                         <img class='w-1/2 h-auto rounded' src='${obj.Preview}' alt=''>
                     </div>
-		        <br>
                 `
             x.appendChild(elem)
         }
