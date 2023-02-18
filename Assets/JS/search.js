@@ -5,8 +5,8 @@ let jsonData = `[
         "Preview": "https://play-lh.googleusercontent.com/V31nfvzNcu_47lr8y2L7m3uw9azrpGyox88gpzhQxwfZSXliFJmIRVSlYJL1eOo_X2U",
         "Play": "../TR_Gamevity/Games/Crossy_Road/index.html",
         "Open": "index.html",
-        "Date": "2/17/23",
-        "Time": "11:53 AM",
+        "Date": "02/18/23",
+        "Time": "01:43 PM",
         "Status": "A0",
 	    "ID": "NA"
     },
@@ -16,8 +16,8 @@ let jsonData = `[
         "Preview": "https://androidcommunity.com/wp-content/uploads/2016/02/featured-stack.jpg",
         "Play": "../TR_Gamevity/Games/Tower_Blocks/index.html",
         "Open": "index.html",
-        "Date": "2/17/23",
-        "Time": "11:54 AM",
+        "Date": "02/18/23",
+        "Time": "05:22 PM",
         "Status": "I0",
 	    "ID": "NA"
     },
@@ -27,9 +27,9 @@ let jsonData = `[
         "Preview": "https://i.ibb.co/NSY2k1c/e.png",
         "Play": "../TR_Gamevity/Games/Infectio/index.html",
         "Open": "index.html",
-        "Date": "2/18/23",
-        "Time": "02:25 PM",
-        "Status": "C0",
+        "Date": "02/18/23",
+        "Time": "05:40 PM",
+        "Status": "A0",
 	    "ID": "NA"
     }
 ]`
