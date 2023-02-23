@@ -31,6 +31,17 @@ let jsonData = `[
         "Time": "05:40 PM",
         "Status": "A0",
 	    "ID": "NA"
+    },
+    {
+        "Name": "Path Finder",
+        "Type": "Strategy",
+        "Preview": "https://i.ibb.co/tQySgz9/Screenshot-2023-02-22-19-08-07.png",
+        "Play": "../TR_Gamevity/Games/Path_Finder/index.html",
+        "Open": "index.html",
+        "Date": "02/22/23",
+        "Time": "07:09 PM",
+        "Status": "A0",
+	    "ID": "NA"
     }
 ]`
 
