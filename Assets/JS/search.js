@@ -7,7 +7,7 @@ let jsonData = `[
         "Open": "index.html",
         "Date": "02/18/23",
         "Time": "01:43 PM",
-        "Status": "A0",
+        "Status": "I0",
 	    "ID": "NA"
     },
     {
