@@ -12,15 +12,19 @@
             <div class="loader__sq"></div>
         </div>
     </div>
-    
+
     <script>
-        if (screen.width <= 700) {
-            document.location = "../TR_Gamevity/Devices/Mobile/index.html";
+        function ScreenType() {
+            if (screen.width <= 700) {
+                document.location = "../TR_Gamevity/Devices/Mobile/index.html";
+            }
+
+            else {
+                document.location = "../TR_Gamevity/Devices/Computer/index.html";
+            }
         }
 
-        else {
-            document.location = "../TR_Gamevity/Devices/Computer/index.html";
-        }
+        setTimeout(ScreenType(), 2023);
     </script>
 </body>
 
