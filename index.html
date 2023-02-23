@@ -14,8 +14,22 @@
             <div class="loader__sq"></div>
         </div>
     </div>
+    
+    <br>
+    <br>
+    
+    <div id="funfact"></div>
 
     <script>
+        var items = [
+            "This was made by 1 person.",
+            "There are 0 ADs." 
+        ]
+        
+        var item = items[Math.floor(Math.random()*items.length)];
+        
+        document.getElementById("funfact").innerHTML = item;
+        
         function ScreenType() {
             if (screen.width <= 700) {
                 document.location = "../TR_Gamevity/Devices/Mobile/index.html";
