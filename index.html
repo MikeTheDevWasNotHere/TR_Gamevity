@@ -5,72 +5,11 @@
     <link href='https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.0.5/tailwind.min.css' rel='stylesheet'>
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
 
-    <link rel="stylesheet" href="../TR_Gamevity/Assets/CSS/gamecard.css">
-    <link rel="stylesheet" href="../TR_Gamevity/Assets/CSS/sidebar.css">
-    <link rel="stylesheet" href="../TR_Gamevity/Assets/CSS/search.css">
-
     <title>Gamevity - Home</title>
 </head>
 
-<body onload="search_jsonData()">
-    <div class="sidebar close">
-        <div class="logo-details">
-            <i class='bx bxl-c-plus-plus'></i>
-            <span class="logo_name">Gamevity</span>
-        </div>
-        <ul class="nav-links">
-            <li>
-                <a href="#">
-                    <i class='bx bx-grid-alt'></i>
-                    <span class="link_name">Home</span>
-                </a>
-                <ul class="sub-menu blank">
-                    <li><a class="link_name" href="#">Home</a></li>
-                </ul>
-            </li>
-            <li>
-                <div class="iocn-link">
-                    <a href="#">
-                        <i class='bx bx-collection'></i>
-                        <span class="link_name">Categories</span>
-                    </a>
-                    <i class='bx bxs-chevron-down arrow'></i>
-                </div>
-                <ul class="sub-menu">
-                    <li><a class="link_name" href="#">Categories</a></li>
-                    <li><a href="#">Strategy</a></li>
-                    <li><a href="#">Arcade</a></li>
-                    <li><a href="#">Puzzle</a></li>
-                </ul>
-            </li>
-            <li>
-                <div class="profile-details">
-                    <div class="profile-content">
-                        <img src="https://store-images.s-microsoft.com/image/apps.10897.13510798883898003.c2c8bc14-3a39-4806-b549-e42939afea6a.53beb45d-d382-43db-962f-19ccb4b868c2?mode=scale&q=90&h=400&w=800&background=%230078D7"
-                            alt="profileImg">
-                    </div>
-                    <div class="name-job">
-                        <div class="profile_name">Welcome!</div>
-                        <div class="job">0 Play Points</div>
-                    </div>
-                    <i class='bx bx-cog'></i>
-                </div>
-            </li>
-        </ul>
-    </div>
-    <section class="home-section">
-        <div class="home-content">
-            <i class='bx bx-menu'></i>
-            <!-- <span class="text">Gamevity - Home</span> --> <input id="searchbar" onkeyup="search_jsonData()" type="text" name="search" placeholder=" Search Games...">
-        </div>
-        
-        <ul id="list-holder">
-
-        </ul>
-    </section>
-
-    <script src="../TR_Gamevity/Assets/JS/sidebar.js"></script>
-    <script src="../TR_Gamevity/Assets/JS/search.js"></script>
+<body>
+    <script src="../../MikeTheDevWasNotHere/TR_Gamevity/Assets/JS/device.js"></script>
 </body>
 
 </html>
