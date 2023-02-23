@@ -2,14 +2,19 @@
 <html lang="en">
 
 <head>
-    <link href='https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.0.5/tailwind.min.css' rel='stylesheet'>
-    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
-
     <title>Gamevity - Home</title>
 </head>
 
 <body>
-    <script src="../../MikeTheDevWasNotHere/TR_Gamevity/Assets/JS/device.js"></script>
+    <script>
+        if (screen.width <= 700) {
+            document.location = "../../MikeTheDevWasNotHere/TR_Gamevity/Devices/Mobile/index.html";
+        }
+
+        else {
+            document.location = "../../MikeTheDevWasNotHere/TR_Gamevity/Devices/Computer/index.html";
+        }
+    </script>
 </body>
 
 </html>
