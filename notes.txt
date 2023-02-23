@@ -4,7 +4,8 @@ Game Status Key
     C0 = Coming Soon     [ Being Made / Prepared   ]
     R0 = Retiring Soon   [ Retiring From The List  ]
     R1 = Retired         [ Can't Be Played Anymore ]
-    I0 = Issues          [ You May Encounter Bugs  ]
+    I0 = Big Issues      [ You Will Encounter Bugs ]
+    I1 = Small Issues    [ You May Encounter Bugs  ]
 
 Game Defualts
     index.html
@@ -12,14 +13,14 @@ Game Defualts
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="../Crossy_Road/Assets/CSS/">
+        <link rel="stylesheet" href="../">
 
-        <title>Gamevity - Crossy Road</title>
+        <title>Gamevity - Name</title>
     </head>
 
     <body>
 
 
-        <script src="../Crossy_Road/Assets/JS/"></script>
+        <script src="../"></script>
     </body>
 </html>
