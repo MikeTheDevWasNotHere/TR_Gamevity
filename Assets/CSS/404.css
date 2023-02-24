@@ -1,36 +1,55 @@
-.page_404 {
-    padding: 40px 0;
-    background: #fff;
-    font-family: 'Arvo', serif;
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900');
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    background-color: #09334f;
+    position: relative;
 }
 
-.page_404 img {
-    width: 100%;
+#yetiSVG {
+    width: 600px;
+    height: 470px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
 }
 
-.four_zero_four_bg {
-    background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
-    height: 400px;
-    background-position: center;
+#lightSVG {
+    width: 600px;
+    height: 470px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: visible;
 }
 
-
-.four_zero_four_bg h1 {
-    font-size: 80px;
+.content {
+    padding: 5rem 3rem 0 25rem;
+    position: relative;
+    z-index: 10;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #FFF;
 }
 
-.four_zero_four_bg h3 {
-    font-size: 80px;
+.content h3 {
+    margin: 0 0 0.8rem;
+    font-size: 2.625rem;
+    font-weight: 900;
+    line-height: 120%;
 }
 
-.link_404 {
-    color: #fff !important;
-    padding: 10px 20px;
-    background: #39ac31;
-    margin: 20px 0;
-    display: inline-block;
+.content p {
+    font-size: 1.25rem;
+    font-weight: normal;
+    line-height: 150%;
+    color: #d1e2ed;
 }
 
-.contant_box_404 {
-    margin-top: -50px;
+.content p span {
+    text-decoration: line-through;
 }
